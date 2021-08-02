@@ -1,0 +1,14 @@
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\bin\Debug\MySecond (pointer) V2.exe.config
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\bin\Debug\MySecond (pointer) V2.exe
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\bin\Debug\MySecond (pointer) V2.pdb
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.csproj.CoreCompileInputs.cache
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.exe
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.pdb
+C:\Users\Pirkuleee\source\repos\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.csprojAssemblyReference.cache
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\bin\Debug\MySecond (pointer) V2.exe.config
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\bin\Debug\MySecond (pointer) V2.exe
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\bin\Debug\MySecond (pointer) V2.pdb
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.csprojAssemblyReference.cache
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.csproj.CoreCompileInputs.cache
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.exe
+C:\Users\Pirkuleee\Desktop\MySecond (pointer) V2\MySecond (pointer) V2\obj\Debug\MySecond (pointer) V2.pdb
